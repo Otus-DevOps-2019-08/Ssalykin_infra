@@ -1,0 +1,6 @@
+project          = "studious-saga-000000"
+public_key_path  = "~/.ssh/appuser.pub"
+disk_image       = "reddit-base-1572253503"
+private_key_path = "~/.ssh/appuser"
+db_disk_image = "reddit-db-base-0000000000"
+app_disk_image = "reddit-app-base-0000000000"               

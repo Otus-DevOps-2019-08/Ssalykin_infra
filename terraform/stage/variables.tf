@@ -4,7 +4,7 @@ variable project {
 variable region {
   description = "Region"
   # Значение по умолчанию
-  default = "us-central1"
+  default = "europe-west1"
 }
 variable public_key_path {
   # Описание переменной
@@ -32,5 +32,5 @@ variable db_disk_image {
 }
 variable zone {
   description = "zone"
-  default = "us-central1-a"
+  default = "europe-west1-b"
 }
